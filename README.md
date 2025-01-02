@@ -2,8 +2,6 @@
 
 ¿Alguna vez le has pedido algo a ChatGPT (u otro modelo de lenguaje) y te ha devuelto una respuesta incompleta, con errores o incluso alucinante? Este tipo de desafíos es común en los modelos de lenguaje actuales, pero el futuro promete soluciones mucho más sofisticadas.
 
-## La Próxima Frontera: Los AI Agents
-
 La evolución natural de los modelos de lenguaje como ChatGPT son los **AI Agents**: sistemas más avanzados que colaboran entre sí para ejecutar tareas con una eficacia y precisión sorprendentes.
 
 ### ¿Qué son los AI Agents?
@@ -13,6 +11,7 @@ Los AI Agents son modelos de lenguaje avanzados que incorporan habilidades adici
 - **Acceso a herramientas externas**: pueden navegar por internet, interactuar con otros sistemas y realizar transacciones.
 - **Capacitación previa personalizada**: se pueden entrenar con información específica, como un documento PDF.
 - **Memoria dinámica**: integran memoria a corto y largo plazo, lo que les permite aprender y mejorar con el tiempo.
+- **Automatización de procesos**: ejecutar flujos de trabajo complejos que incluyen múltiples pasos y múltiplos agentes
 
 ### ¿Qué pueden hacer los AI Agents?
 
